@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Sprudel@Work Squarespace video -->
+  <url>
+    <loc>https://sprudel.life/sprudelwork</loc>
+    <video:video>
+      <video:thumbnail_loc>https://images.squarespace-cdn.com/content/v1/5e8c1dd6abdf3f0f0c453511/8e7bcdbe-b914-0b29-56428a8c/SprudelAtWorkLogo?format=1500w</video:thumbnail_loc>
+      <video:title>Sprudel@Work Product Video</video:title>
+      <video:description>Product video for Sprudel@Work water dispenser and filtration system.</video:description>
+      <video:content_loc>https://video.squarespace-cdn.com/content/v1/5e8c1dd6abdf3f0f0c453511/sprudelwork.mp4</video:content_loc>
+      <video:upload_date>2025-08-15</video:upload_date>
+      <video:duration>60</video:duration>
+    </video:video>
+  </url>
+
+  <!-- Sprudel4F&B Squarespace video -->
+  <url>
+    <loc>https://sprudel.life/sprudel4fb</loc>
+    <video:video>
+      <video:thumbnail_loc>https://images.squarespace-cdn.com/content/v1/5e8c1dd6abdf3f0f0c453511/8cc09a1a-1bbc-44ba-9d6d-b1397718133d/Sprudel4F&amp;B+video.png?format=2500w</video:thumbnail_loc>
+      <video:title>Sprudel4F&amp;B Product Video</video:title>
+      <video:description>Product video for Sprudel4F&amp;B filtered water dispenser.</video:description>
+      <video:content_loc>https://video.squarespace-cdn.com/content/v1/5e8c1dd6abdf3f0f0c453511/sprudel4fb.mp4</video:content_loc>
+      <video:upload_date>2025-08-28</video:upload_date>
+      <video:duration>16</video:duration>
+    </video:video>
+  </url>
+
+  <!-- Home page video 1 -->
+  <url>
+    <loc>https://sprudel.life/home</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Y3kN6tJmfRc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Sprudel Sessions | Episode 1: Sustainability in Hospitality</video:title>
+      <video:description>Discussion on sustainability in hospitality industry with Marcus Sutton.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Y3kN6tJmfRc?start=251</video:player_loc>
+      <video:duration>2031</video:duration>
+      <video:upload_date>2024-08-05</video:upload_date>
+    </video:video>
+  </url>
+
+  <!-- Home page video 2 -->
+  <url>
+    <loc>https://sprudel.life/home</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/i3xA2rHO_sc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Sprudel Video 2</video:title>
+      <video:description>Video description for second YouTube video.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/i3xA2rHO_sc?start=10</video:player_loc>
+      <video:duration>1273</video:duration>
+      <video:upload_date>2024-07-15</video:upload_date>
+    </video:video>
+  </url>
+
+  <!-- Home page video 3 -->
+  <url>
+    <loc>https://sprudel.life/home</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/g-XriVRcI18/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Sprudel Video 3</video:title>
+      <video:description>Video description for third YouTube video.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/g-XriVRcI18?start=1083</video:player_loc>
+      <video:duration>1583</video:duration>
+      <video:upload_date>2024-11-21</video:upload_date>
+    </video:video>
+  </url>
+
+  <!-- Local Production page video 4 -->
+  <url>
+    <loc>https://sprudel.life/local-production</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/goLPt6zE6R0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Sprudel Local Production Video</video:title>
+      <video:description>Description of fourth video on local production.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/goLPt6zE6R0</video:player_loc>
+      <video:duration>273</video:duration>
+      <video:upload_date>2025-01-10</video:upload_date>
+    </video:video>
+  </url>
+
+</urlset>
